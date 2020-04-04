@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+}
+
+input {
+  display: none;
+}
+
+button {
+  width: 5rem;
+  margin-bottom: 2rem;
+}
+
+canvas {
+  border: #aaaaaa 1px solid;
+  border-radius: 3px;
+}
